@@ -1,0 +1,38 @@
+﻿@model Onlinevotingsystem.Models.Election
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 style="text-align:center">Create Election</h1>
+
+
+<hr />
+<div class="row blur">
+    <div class="col-md-4" id= "form_center">
+        <form asp-action="Create" >
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group" >
+                <label asp-for="ElectionName" class="control-label"></label>
+                <input asp-for="ElectionName" class="form-control" />
+                <span asp-validation-for="ElectionName" class="text-danger"></span>
+            </div>
+            <div class="form-group" >
+                <label asp-for="EndDate" class="control-label"></label>
+                <input type="date" asp-for="EndDate" class="form-control"  min="2023-01-02"><br><br>
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="text-align:center">
+                <input type="submit" value="Create" class="glow-on-hover" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div style="text-align:center">
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

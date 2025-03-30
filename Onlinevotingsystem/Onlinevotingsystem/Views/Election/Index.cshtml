@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Onlinevotingsystem.Models.Election>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="text-align:center">View Election</h1>
+
+<p style="text-align:center">
+    <a asp-action="Create" >Create New</a>
+</p>
+<table class="table blur" id="tb">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectionName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ElectionName)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.EndDate.Month)/
+                    @Html.DisplayFor(modelItem => item.EndDate.Day)/
+                    @Html.DisplayFor(modelItem => item.EndDate.Year)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Electionid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Electionid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Electionid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

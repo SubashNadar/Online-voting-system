@@ -1,0 +1,71 @@
+﻿@model Onlinevotingsystem.Models.Users
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 style="text-align:center">Create Users</h1>
+
+
+<hr />
+<div class="row blur">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateOfBirth" class="control-label"></label>
+                @*<input asp-for="DateOfBirth" class="form-control" />*@
+                <input asp-for="DateOfBirth" type="date" id="datemax" name="datemax" max="1979-12-31" class="form-control">
+                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+              @*  <input asp-for="Gender" class="form-control" />*@
+                <select asp-for="Gender" asp-items="@(new SelectList(@ViewBag.Gender,"GenderValue","GenderName"))" class="coId form-control" id="Election"></select>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+       
+            <div class="form-group">
+                <label asp-for="PhoneNo" class="control-label"></label>
+                <input asp-for="PhoneNo" class="form-control" />
+                <span asp-validation-for="PhoneNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="address" class="control-label"></label>
+                <input asp-for="address" class="form-control" />
+                <span asp-validation-for="address" class="text-danger"></span>
+            </div>
+           @* <div class="form-group">
+                <label asp-for="CanVote" class="control-label"></label>
+                <input asp-for="CanVote" class="form-control" />
+                <span asp-validation-for="CanVote" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <input type="submit" value="Create" class="glow-on-hover" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

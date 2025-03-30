@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Admin";
+    
+}
+
+
+<div class="text-center blur">
+
+    <button onclick="addcandidate()" class="glow-on-hover" id="container">add candidate</button>
+    <button onclick="addelection()" class="glow-on-hover" id="container">add election</button>
+    <button onclick="ViewUser()" class="glow-on-hover" id="container">view User</button>
+    <button onclick="ViewElections()" class="glow-on-hover" id="container">view election</button>
+
+    
+</div>
+<div class="text_center">
+<h1 >Welcome</h1>
+<p >
+    Welcome to Admin Dashboard
+</p>
+</div>
+<script src="~/js/login.js"></script>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

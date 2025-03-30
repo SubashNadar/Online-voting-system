@@ -1,0 +1,31 @@
+﻿<div class="alert alert-success blur" id="msg" >
+ 
+</div>
+<p>
+    <h1>Welcome user</h1>
+    <button class ="glow-on-hover" onclick="ViewElectionsusr()">
+        View Elections</button>
+    <button class="glow-on-hover" onclick="ViewResult()">View Results</button>
+</p>
+<script src="~/js/login.js"></script>
+<script type="text/javascript">
+    function ViewElectionsusr() {
+        $.post("/Elections/UserElection", null, function (data) {
+
+            alert("This is your election list")
+        });
+        var userurl = "/Election/UserElection";
+        window.location.href = userurl;
+    }
+    function ViewResult(){
+           $.post("/ElectionVotes/VuScore", null, function (data) {
+
+            alert("This is your election list")
+        });
+        var userurl = "/Election/UserElection";
+        window.location.href = userurl;
+    }
+</script>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

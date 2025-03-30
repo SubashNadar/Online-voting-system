@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Onlinevotingsystem.Models.Candidate>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table blur" id="tb">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TypeElection)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfBirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.address)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+               @* <input hidden id="cid" value="@Html.DisplayFor(modelItem => item.TypeElection"/>*@
+                  
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeElection)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                    <img src="~/images/@Html.DisplayFor(modelItem => item.Image)" style="width: 100px;height: 100px;border-radius: 20px;"> 
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.address)
+            </td>
+            <td>
+                   
+              @*  <a asp-action="Details" asp-route-id="@item.Candidateid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Candidateid">Delete</a>*@
+                    <button class="glow-on-hover"> <a asp-action="CastVotes" asp-route-id="@item.Candidateid">Cast Vote</a> |</button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div hidden>
+    <input id="email" value="@ViewBag.xemail"/> 
+    <input id="name" value="@ViewBag.yname"/></div>
+<script type="text/javascript">
+    function Vote() {
+        var u = $('#email').val();
+        var v = $('#name').val();
+       
+    }
+</script>

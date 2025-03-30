@@ -1,0 +1,692 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\candidate\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\candidate\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\candidate\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\candidate\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\users\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\users\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\electionvotes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\electionvotes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\electionvotes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\electionvotes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\electionvotes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\electionvotes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\electionvotes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\electionvotes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\electionvotes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\electionvotes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\candidate\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\candidate\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\election\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\election\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\election\\vucandidate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\election\\vucandidate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\election\\userelectionindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\election\\userelectionindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\election\\userelection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\election\\userelection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\election\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\election\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\election\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\election\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\election\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\election\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\election\\castvotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\election\\castvotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\election\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\election\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\candidate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\candidate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\candidate\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\candidate\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\models\\gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\models\\gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\models\\onlinevotingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\models\\onlinevotingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|c:\\users\\snadar\\onedrive - cornerstone ondemand, inc\\old laptop files\\onlinevotingsystem\\onlinevotingsystem\\controllers\\electioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884B9BB-CC4E-4C21-AE5B-3AA551E3064C}|Onlinevotingsystem\\Onlinevotingsystem.csproj|solutionrelative:onlinevotingsystem\\controllers\\electioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Onlinevotingsystem\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:32:02.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Homepage.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Homepage.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Users\\Homepage.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Homepage.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Users\\Homepage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAD4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "Onlinevotingsystem\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAEwEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:32:02.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Details.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Candidate\\Details.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Details.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Candidate\\Details.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Create.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Candidate\\Create.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Create.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Candidate\\Create.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAD0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\ElectionVotes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Index.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\ElectionVotes\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\ElectionVotes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Edit.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\ElectionVotes\\Edit.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\ElectionVotes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Details.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\ElectionVotes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\ElectionVotes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Delete.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\ElectionVotes\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\ElectionVotes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\ElectionVotes\\Create.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\ElectionVotes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Candidate\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Delete.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Candidate\\Delete.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Election\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Delete.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Election\\Delete.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VuCandidate.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\VuCandidate.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Election\\VuCandidate.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\VuCandidate.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Election\\VuCandidate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserElectionIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\UserElectionIndex.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Election\\UserElectionIndex.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\UserElectionIndex.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Election\\UserElectionIndex.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserElection.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\UserElection.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Election\\UserElection.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\UserElection.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Election\\UserElection.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Details.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Election\\Details.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Details.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Election\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Election\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Edit.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Election\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Index.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Election\\Index.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Index.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Election\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Create.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Election\\Create.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\Create.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Election\\Create.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CastVotes.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\CastVotes.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Election\\CastVotes.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Election\\CastVotes.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Election\\CastVotes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Index.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Candidate\\Index.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Index.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Candidate\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Candidate\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Candidate\\Edit.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Candidate\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Onlinevotingsystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T04:32:02.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Onlinevotingsystem\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwD4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T04:32:02.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Models\\Users.cs",
+              "RelativeToolTip": "Onlinevotingsystem\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:32:02.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OnlineVotingDB.cs",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Models\\OnlineVotingDB.cs",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Models\\OnlineVotingDB.cs",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Models\\OnlineVotingDB.cs",
+              "RelativeToolTip": "Onlinevotingsystem\\Models\\OnlineVotingDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:32:02.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Onlinevotingsystem\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAIBJwIcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:32:02.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Gen.cs",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Models\\Gen.cs",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Models\\Gen.cs",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Models\\Gen.cs",
+              "RelativeToolTip": "Onlinevotingsystem\\Models\\Gen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:32:02.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ElectionController.cs",
+              "DocumentMoniker": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Controllers\\ElectionController.cs",
+              "RelativeDocumentMoniker": "Onlinevotingsystem\\Controllers\\ElectionController.cs",
+              "ToolTip": "C:\\Users\\snadar\\OneDrive - Cornerstone OnDemand, Inc\\Old Laptop Files\\Onlinevotingsystem\\Onlinevotingsystem\\Controllers\\ElectionController.cs",
+              "RelativeToolTip": "Onlinevotingsystem\\Controllers\\ElectionController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAawE8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:32:02.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

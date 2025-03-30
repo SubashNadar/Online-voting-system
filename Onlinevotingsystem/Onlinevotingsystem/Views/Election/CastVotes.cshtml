@@ -1,0 +1,13 @@
+﻿@model Onlinevotingsystem.Models.Reply
+
+<div style="text-align:center" class="@Html.DisplayFor(model => model.color) blur">
+    
+   <p><b>
+            @Html.DisplayFor(model => model.message)</b>
+   </p>  
+</div>
+<div>
+    <a asp-action="UserElection" >Return to Election List</a> 
+    
+</div>
+
